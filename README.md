@@ -1,4 +1,4 @@
-# portfolio-Topaz-Tahor
+# Portfolio
 
 # 👋 Hi, I'm Topaz  
 
