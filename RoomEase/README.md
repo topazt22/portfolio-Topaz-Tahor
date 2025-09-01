@@ -1,28 +1,32 @@
 # 🏠 RoomEase – Roommate Matching App  
 
 ## 📌 Problem  
-Finding a suitable roommate is often stressful and inefficient.  
-Existing platforms focus mainly on listings, but not on **compatibility** and user experience.  
+Finding reliable roommates is often stressful, inefficient, and lacks transparency.  
+Current platforms mainly focus on listings, not on **compatibility** between people.  
 
 ## 🔄 Process  
-- Defined the core user problem through brainstorming  
-- Designed two main UI screens to demonstrate the concept  
+- Defined the main pain point: lack of personalized roommate matching  
+- Designed two initial UI screens to represent the core idea  
 - Built user flow around:  
-  1. Creating a roommate profile  
-  2. Viewing apartment & roommate details in a single interface  
+  1. Viewing an individual roommate profile  
+  2. Searching & matching with multiple candidates  
 
 ## 🎯 Result  
-- Two prototype screens showcasing the app’s main concept  
-- Clear flow to highlight both the individual roommate profile and shared apartment profile  
+- Two prototype screens demonstrating the MVP concept  
+- Showcased the potential of a platform that prioritizes compatibility and lifestyle fit  
 
 ## 💡 Value  
-Even with limited visuals, RoomEase demonstrates:  
-- My ability to translate a real-life need into a digital product concept  
-- Designing a simple MVP with measurable KPIs (retention, engagement, conversion)  
-- Laying the foundation for a scalable product  
+This project highlights my ability to:  
+- Identify a market gap and translate it into a product concept  
+- Build a clear **MVP prototype** that demonstrates the app’s core value  
+- Focus on **user experience and KPIs** such as retention, active matches, and engagement  
 
 ---
 
 📷 **Screenshots**  
-![RoomEase Screen 1](./screenshots/roommate-profile.png)  
-![RoomEase Screen 2](./screenshots/apartment-profile.png)  
+
+**Roommate Profile View**  
+![Roommate Profile](./screenshots/roommate-profile.png)  
+
+**Find a Housemate View**  
+![Find Housemate](./screenshots/find-housemate.png)  
