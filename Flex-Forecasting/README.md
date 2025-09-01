@@ -37,6 +37,10 @@ This project demonstrates my ability to:
 **Problematic Items Dashboard**  
 ![Problematic Items](./screenshots/problematic-items-dashboard.png)
 
+**SARIMA Forecast for Pump Consumption (2025)**  
+![SARIMA Forecast](./screenshots/sarima-pump-forecast-2025.png)
+
+
 
 🛠️ **Tools & Technologies**  
 - Python (SARIMA)  
