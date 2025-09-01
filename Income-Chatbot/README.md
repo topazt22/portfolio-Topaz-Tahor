@@ -27,9 +27,14 @@ This project demonstrates my ability to:
 
 ---
 
-📷 **Screenshots**  
-(Add chatbot UI screenshots here)  
-![Chatbot Example](./screenshots/chatbot.png)
+📷 **Screenshots**
+
+**High Income Prediction**  
+![High Income](./screenshots/income-prediction-high.png)
+
+**Low Income Prediction**  
+![Low Income](./screenshots/income-prediction-low.png)
+
 
 🔗 **Live Demo**  
 [Hugging Face App] [https://huggingface.co/spaces/top25/income-predictor-bot]  
