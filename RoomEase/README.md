@@ -1,24 +1,28 @@
 # 🏠 RoomEase – Roommate Matching App  
 
 ## 📌 Problem  
-Finding reliable roommates is often time-consuming and lacks transparency.  
+Finding a suitable roommate is often stressful and inefficient.  
+Existing platforms focus mainly on listings, but not on **compatibility** and user experience.  
 
 ## 🔄 Process  
-- Conducted user research and defined personas  
-- Designed user journey & wireframes  
-- Built UX/UI mockups in Figma  
-- Defined KPIs (retention, active users, conversion)  
+- Defined the core user problem through brainstorming  
+- Designed two main UI screens to demonstrate the concept  
+- Built user flow around:  
+  1. Creating a roommate profile  
+  2. Viewing apartment & roommate details in a single interface  
 
 ## 🎯 Result  
-- Interactive Figma prototype showcasing the roommate search flow  
-- MVP presentation for investors  
+- Two prototype screens showcasing the app’s main concept  
+- Clear flow to highlight both the individual roommate profile and shared apartment profile  
 
 ## 💡 Value  
-RoomEase demonstrates my ability to translate user needs into a product concept, create UX/UI flows, and define measurable KPIs.  
+Even with limited visuals, RoomEase demonstrates:  
+- My ability to translate a real-life need into a digital product concept  
+- Designing a simple MVP with measurable KPIs (retention, engagement, conversion)  
+- Laying the foundation for a scalable product  
 
 ---
 
 📷 **Screenshots**  
-![RoomEase Mockup](./mockup.png)
-
-🔗 [Figma Prototype](https://figma.com/your-link-here)  
+![RoomEase Screen 1](./screenshots/roommate-profile.png)  
+![RoomEase Screen 2](./screenshots/apartment-profile.png)  
