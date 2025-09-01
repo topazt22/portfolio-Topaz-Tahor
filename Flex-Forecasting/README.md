@@ -26,9 +26,17 @@ This project demonstrates my ability to:
 
 ---
 
-📷 **Screenshots**  
-(Add here Power BI dashboard images, e.g.:)  
-![Dashboard Example](./screenshots/dashboard.png)
+📷 **Screenshots**
+
+**Pump Consumption Dashboard**  
+![Pump Consumption](./screenshots/pump-consumption-dashboard.png)
+
+**General LT Dashboard**  
+![General LT](./screenshots/general-lt-dashboard.png)
+
+**Problematic Items Dashboard**  
+![Problematic Items](./screenshots/problematic-items-dashboard.png)
+
 
 🛠️ **Tools & Technologies**  
 - Python (SARIMA)  
