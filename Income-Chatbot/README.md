@@ -32,7 +32,7 @@ This project demonstrates my ability to:
 ![Chatbot Example](./screenshots/chatbot.png)
 
 🔗 **Live Demo**  
-[Hugging Face App][[https://huggingface.co/spaces/top25/income-predictor-bot])  
+[Hugging Face App]([https://huggingface.co/spaces/top25/income-predictor-bot])  
 
 🛠️ **Tools & Technologies**  
 - Python (XGBoost, Pandas, Regex)  
