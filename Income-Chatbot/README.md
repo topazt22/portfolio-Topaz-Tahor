@@ -30,10 +30,10 @@ This project demonstrates my ability to:
 📷 **Screenshots**
 
 **High Income Prediction**  
-![High Income](./screenshots/income-prediction-high.png)
+![High Income](./screenshots/high-income-prediction.png)
 
 **Low Income Prediction**  
-![Low Income](./screenshots/income-prediction-low.png)
+![Low Income](./screenshots/low-income-prediction.png)
 
 
 🔗 **Live Demo**  
