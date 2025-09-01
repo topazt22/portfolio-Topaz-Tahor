@@ -16,8 +16,6 @@ Here you can find selected projects that highlight my skills in product operatio
 | RoomEase | Roommate matching app – UX/UI prototype | Figma, User Research | Coming soon |
 | Flex Forecasting | Demand forecasting & Power BI dashboard | Python (SARIMA), Power BI | Coming soon |
 | Income Prediction Chatbot | AI chatbot predicting income levels | Python, XGBoost, Hugging Face | Coming soon |
-| Medical BERT Chatbot | AI model for preliminary diagnosis | Python, BERT, Hugging Face | Coming soon |
-| Kornit Digital | ERP/BI organizational analysis | ERP Priority, BI, VSM | Coming soon |
 
 ---
 
