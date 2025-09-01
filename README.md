@@ -1,4 +1,4 @@
-# Portfolio
+# Product Operations & Associate PM Portfolio
 
 # 👋 Hi, I'm Topaz  
 
