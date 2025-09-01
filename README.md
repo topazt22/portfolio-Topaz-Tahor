@@ -19,4 +19,4 @@ Here you can find selected projects that highlight my skills in product operatio
 
 ---
 
-📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/topaz-tahor) | Email: your.email@example.com
+📫 **Contact**: [LinkedIn](https://www.linkedin.com/in/topaz-tahor) | Email: topaztahor14@gmail.com
