@@ -1,25 +1,26 @@
 # 🏠 RoomEase – Roommate Matching App  
 
 ## 📌 Problem  
-Finding reliable roommates is often stressful, inefficient, and lacks transparency.  
-Current platforms mainly focus on listings, not on **compatibility** between people.  
+Finding a compatible roommate is often stressful, inefficient, and based on incomplete information.  
+Most existing platforms focus on apartment listings rather than **compatibility and lifestyle fit** between people.  
 
 ## 🔄 Process  
-- Defined the main pain point: lack of personalized roommate matching  
-- Designed two initial UI screens to represent the core idea  
-- Built user flow around:  
-  1. Viewing an individual roommate profile  
-  2. Searching & matching with multiple candidates  
+- Defined the key user pain: lack of personalized roommate matching  
+- Designed two core UI screens to illustrate the product’s value proposition:  
+  1. **Roommate Profile View** – displaying personal traits, lifestyle, and compatibility score  
+  2. **Match Finder View** – enabling users to filter preferences and discover top matches  
+- Framed the concept around measurable KPIs: user retention, active daily users, successful matches  
 
 ## 🎯 Result  
-- Two prototype screens demonstrating the MVP concept  
-- Showcased the potential of a platform that prioritizes compatibility and lifestyle fit  
+- Two prototype screens showcasing the **minimum viable product (MVP)** concept  
+- A clear product story that emphasizes **compatibility-first roommate search**  
+- Demonstrated the potential to scale into a fully featured platform with enhanced filtering, chat, and verification  
 
 ## 💡 Value  
 This project highlights my ability to:  
-- Identify a market gap and translate it into a product concept  
-- Build a clear **MVP prototype** that demonstrates the app’s core value  
-- Focus on **user experience and KPIs** such as retention, active matches, and engagement  
+- Translate a real-life need into a **digital product concept**  
+- Build and present an MVP prototype that demonstrates the **core value of the solution**  
+- Focus on **user experience and product KPIs** to ensure measurable success  
 
 ---
 
