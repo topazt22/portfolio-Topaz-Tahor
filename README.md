@@ -15,7 +15,7 @@ Here you can find selected projects that highlight my skills in product operatio
 |---------|-------------|-------|------|
 | RoomEase | Roommate matching app – UX/UI prototype | Figma, User Research | [View](https://github.com/topazt22/portfolio-Topaz-Tahor/tree/main/RoomEase) |
 | Flex Forecasting | Demand forecasting & Power BI dashboard | Python (SARIMA), Power BI | [View](https://github.com/topazt22/portfolio-Topaz-Tahor/tree/main/Income-Chatbot) |
-| Income Prediction Chatbot | AI chatbot predicting income levels | Python, XGBoost, Hugging Face | Coming soon |
+| Income Prediction Chatbot | AI chatbot predicting income levels | Python, XGBoost, Hugging Face | [View](https://github.com/topazt22/portfolio-Topaz-Tahor/tree/main/Flex-Forecasting) |
 
 ---
 
